@@ -4,7 +4,7 @@
 }
 body {
     padding-top: 50px; /* espacio arriba */
-    background-color: #333;
+    background-color: olive;
 }
 .galeria {
     width: 90%; /* ancho relativo al body*/

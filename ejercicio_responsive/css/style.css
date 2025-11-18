@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+   width: 150px;
+   height: 150px;
+    background-color: blue;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    position: fixed;
+
+}
+p {
+    font-size: 3em;
+
+}
+
+div:nth-child(2) {
+    right: 0;
+}
+div:nth-child(3) {
+    bottom: 0;
+}
+div:nth-child(4) {
+    right: 0;
+    bottom: 0;
+}
